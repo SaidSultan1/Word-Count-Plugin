@@ -6,3 +6,5 @@ Description: This plugin will help you to check how many word are in blog posts 
 Author Name: Said Sultan
 Author Uri:https://github.com/SaidSultan1/First-Plugin
 */
+
+hello worls 123
